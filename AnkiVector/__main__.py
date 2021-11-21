@@ -74,7 +74,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="📜 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
-        InlineKeyboardButton(text="❔ ʜᴇʟᴘ", url="http://t.me/TheAnkiVectorbot?start=help"),
+        InlineKeyboardButton("🖕🏼 help", callback_data = "help"),
     ],
     [
         InlineKeyboardButton(
